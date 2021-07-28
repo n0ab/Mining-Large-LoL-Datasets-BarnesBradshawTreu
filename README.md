@@ -4,10 +4,15 @@ Repository for "Mining Large League of Legends Datasets in Parallel"
 This repository contains relevant Python scripts and datasets used for this project.
 
 **INCLUDED DATA**
+
 drive-download-20210728T174440Z-001
+
 drive-download-20210728T174641Z-001
+
 SM_AGGREGATE_NOSPACE
+
 champdataverbose
+
 
 **INCLUDED SCRIPTS**
 SimilarChamps
